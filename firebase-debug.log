@@ -1,0 +1,47 @@
+[debug] [2020-02-07T18:27:32.252Z] ----------------------------------------------------------------------
+[debug] [2020-02-07T18:27:32.254Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\andre.pinto\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-02-07T18:27:32.254Z] CLI Version:   7.12.1
+[debug] [2020-02-07T18:27:32.254Z] Platform:      win32
+[debug] [2020-02-07T18:27:32.254Z] Node Version:  v10.15.3
+[debug] [2020-02-07T18:27:32.255Z] Time:          Fri Feb 07 2020 16:27:32 GMT-0200 (GMT-02:00)
+[debug] [2020-02-07T18:27:32.255Z] ----------------------------------------------------------------------
+[debug] [2020-02-07T18:27:32.255Z] 
+[debug] [2020-02-07T18:27:32.260Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-02-07T18:27:32.261Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Workspace\Lorempicsum\myLoremPicsum
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2020-02-07T18:28:04.681Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2020-02-07T18:28:04.682Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2020-02-07T18:28:05.066Z] <<< HTTP RESPONSE 200
+[debug] [2020-02-07T18:28:05.094Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects?pageSize=100  
+ 
+[debug] [2020-02-07T18:28:06.014Z] <<< HTTP RESPONSE 200
+[info] i  Using project mylorempicsum (myLoremPicsum)
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
