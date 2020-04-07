@@ -2,11 +2,25 @@
 
 Esse é um projeto desenvolvido na [Unifacs](https://www.unifacs.br/) orientado pelo professor [ARISTOTELES SILVA](https://github.com/totemarcal) com o objetivo de nos elucidar sobre boas práticas de Computação para Dispositivos Móveis. A linguagem escolhida para seu desenvolvimento foi o **React Native**.
 
+### Sobre o produto
+Sabe aqueles dias que você quer apenas relaxar, abre o Instagram ou Facebook e se depara com várias postagens dos mais diversos tipos? Discussões políticas, acidentes, crimes, futilidades... E no final das contas você não relaxou nada?
+
+É para isso que o My Lorem Picsum vem. Para te dar aquele momento de paz, relaxamento e tranquilidade.
+
+![Image](https://i.picsum.photos/id/211/1920/1280.jpg)
+
+**Apresentaremos à você uma galeria de fotos de alta qualidade, previamente selecionadas.**
+
+![Image](https://i.picsum.photos/id/289/2800/1508.jpg)
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Está numa vibe monocolor? Basta selecionar nossa curadoria de imagens em escala de cinza:
 
-### Markdown
+![Image](https://i.picsum.photos/id/1084/804/456.jpg?grayscale)
+
+### Cronograma do Projeto
+
+ESCREVER CRONOGRAMA DO PROJETO AQUI
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -30,10 +44,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndreVNP/myLoremPicsum/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### SupportE ou Contacto
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Dúvidas? Dicas? Por favor, entre em contato comigo através do [LinkedIn](https://www.linkedin.com/in/andrevnp).
