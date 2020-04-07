@@ -1,6 +1,8 @@
-## Bem vindo ao My Lorem Picsum YEAH
+## Bem vindo ao My Lorem Picsum
 
-Esse é um projeto desenvolvido na [Unifacs](https://github.com/AndreVNP/myLoremPicsum/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Esse é um projeto desenvolvido na [Unifacs](https://www.unifacs.br/) orientado pelo professor [ARISTOTELES SILVA](https://github.com/totemarcal) com o objetivo de nos elucidar sobre boas práticas de Computação para Dispositivos Móveis. A linguagem escolhida para seu desenvolvimento foi o **React Native**.
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
