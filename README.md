@@ -9,7 +9,7 @@ Antes de mais nada, **Nós adoramos fotografia ;)**
 ### Sobre o produto
 Sabe aqueles dias que você quer apenas relaxar, abre o Instagram ou Facebook e se depara com várias postagens dos mais diversos tipos? Discussões políticas, acidentes, crimes, futilidades... E no final das contas você não relaxou nada?
 
-É para isso que o **My Lorem Picsum vem**. Para te dar aquele momento de paz, relaxamento e tranquilidade.
+É para isso que o **My Lorem Picsum** vem. Para te dar aquele momento de paz, relaxamento e tranquilidade.
 
 ![Image](https://i.picsum.photos/id/211/1920/1280.jpg)
 
