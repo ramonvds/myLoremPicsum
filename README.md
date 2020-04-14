@@ -74,7 +74,20 @@ Você pode acessar nosso quadro Kanban de atividades [Clicando aqui!](https://tr
 
 ### 1º Sprint
 
+- Criação do repositório;
+- Criação do projeto;
+- Conectar o aplicativo com API;
+- Criar home page;
+
 ### 2º Sprint
+
+- Listar retorno da API nas páginas de feed de fotos;
+- Criar página de perfil;
+- Favoritar fotos;
+- Criar página de favoritos;
+- Fazer download de fotos;
+- Seguir amigos;
+- Criar secão de comentários;
 
 # Equipe
 
